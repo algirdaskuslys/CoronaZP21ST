@@ -1,0 +1,2 @@
+rootProject.name='Corona ZP-21-1-T-S'
+include ':app'
